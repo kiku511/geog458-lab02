@@ -9,4 +9,4 @@ This map was created by aggregating tweets using the Twitter Developer API and T
 
 As we can see from the data from [Buffer](https://buffer.com/resources/best-time-to-tweet-research), the frequency of tweets in the US is decent at around 10 pm but lower around 1 AM. The map shows this since the East Coast time is 1 AM, therefore less tweets than usual.
 
-![Popular Tweet Times](/img/popular_tweet_times)
+[Tweet data](https://buffer.com/resources/wp-content/uploads/2015/06/Buffer-social-media-science-study-US-popular-times-to-tweet.png)
